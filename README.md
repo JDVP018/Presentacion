@@ -32,8 +32,7 @@ Soy un estudiante/desarrollador con bases en **C++**, **HTML**, **CSS** y **Java
 ---
 
 ## 📫 Contáctame  
-- **GitHub:** [Mi perfil](https://github.com/xXJilOMaNXx)  
-- **Email:** tuemail@ejemplo.com  
+- **GitHub:** [Mi perfil](https://github.com/xXJilOMaNXx) 
 
 ---
 
