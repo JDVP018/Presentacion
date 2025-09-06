@@ -1,40 +1,42 @@
-# 👋 ¡Hola! Soy Jesus David Vesga Prieto  
+# 👋 ¡Hola! Soy **Jesús David Vesga Prieto**  
 
-### 💻 Desarrollador en formación | Apasionado por la tecnología  
+💻 **Desarrollador en formación | Apasionado por la tecnología**  
+📚 Actualmente curso **4.º semestre de Ingeniería**  
+🎓 Cuento con un título de **Programación – Nivel Explorador**  
 
-Soy un estudiante/desarrollador con bases en **C++**, **HTML**, **CSS** y **JavaScript**, con ganas de seguir aprendiendo y crear proyectos que aporten valor.  
+Soy un estudiante y desarrollador con bases en **C++**, **HTML**, **CSS** y **JavaScript**, con muchas ganas de seguir aprendiendo y crear proyectos que aporten valor.  
 
 ---
 
-## 🚀 Tecnologías y Herramientas  
-
+## 🚀 Tecnologías y Herramientas
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>  
 
 ---
 
-## 📚 Actualmente Aprendiendo  
-- Desarrollo web avanzado  
-- Programación orientada a objetos en C++  
-- Frameworks y librerías para JavaScript  
+## 📚 Actualmente aprendiendo
+- 🌐 Desarrollo web avanzado  
+- 🧩 Programación orientada a objetos en C++  
+- ⚡ Frameworks y librerías para JavaScript  
 
 ---
 
-## 🎯 Objetivos  
-- Contribuir a proyectos de código abierto  
-- Mejorar mis habilidades como desarrollador  
-- Construir una sólida base en programación  
+## 🎯 Objetivos
+- 🤝 Contribuir a proyectos de **código abierto**  
+- 📈 Mejorar mis habilidades como desarrollador  
+- 🏗️ Construir una base sólida en **programación**  
 
 ---
 
-## 📫 Contáctame  
-- **GitHub:** [Mi perfil](https://github.com/xXJilOMaNXx) 
+## 📫 Contáctame
+- 🔗 [GitHub: Mi perfil](#)  
 
 ---
 
-### ✨ Frase Motivacional  
-> "El aprendizaje constante es la clave para construir grandes cosas."  
+## ✨ Frase motivacional
+*"El aprendizaje constante es la clave para construir grandes cosas."*  
+
