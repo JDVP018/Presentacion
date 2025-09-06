@@ -19,7 +19,7 @@ Soy un estudiante y desarrollador con bases en **C++**, **HTML**, **CSS** y **Ja
 ---
 
 ## 📚 Actualmente aprendiendo
-- 🌐 Desarrollo web avanzado  
+- 🌐 Desarrollo web basico  
 - 🧩 Programación orientada a objetos en C++  
 - ⚡ Frameworks y librerías para JavaScript  
 
