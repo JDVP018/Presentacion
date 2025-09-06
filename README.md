@@ -33,7 +33,15 @@ Soy un estudiante y desarrollador con bases en **C++**, **HTML**, **CSS** y **Ja
 ---
 
 ## 📫 Contáctame
-- 🔗 [GitHub: Mi perfil](#)  
+<p align="left">
+  <a href="yeezusvesga03@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/tuusuario" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
+
 
 ---
 
