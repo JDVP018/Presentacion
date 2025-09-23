@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy **Jesús David Vesga Prieto**  
+#  ¡Hola! Soy **Jesús David Vesga Prieto**  
 
 💻 **Desarrollador en formación | Apasionado por la tecnología**  
 📚 Actualmente curso **4.º semestre de Ingeniería**  
@@ -8,7 +8,7 @@ Soy un estudiante y desarrollador con bases en **C++**, **HTML**, **CSS** y **Ja
 
 ---
 
-## 🚀 Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -18,21 +18,21 @@ Soy un estudiante y desarrollador con bases en **C++**, **HTML**, **CSS** y **Ja
 
 ---
 
-## 📚 Actualmente aprendiendo
+##  Actualmente aprendiendo
 - 🌐 Desarrollo web basico  
 - 🧩 Programación orientada a objetos en C++  
 - ⚡ Frameworks y librerías para JavaScript  
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 - 🤝 Contribuir a proyectos de **código abierto**  
 - 📈 Mejorar mis habilidades como desarrollador  
 - 🏗️ Construir una base sólida en **programación**  
 
 ---
 
-## 📫 Contáctame
+##  Contáctame
 <p align="left">
   <a href="yeezusvesga03@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
