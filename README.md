@@ -45,6 +45,6 @@ Soy un estudiante y desarrollador con bases en **C++**, **HTML**, **CSS** y **Ja
 
 ---
 
-## ✨ Frase motivacional
-*"El aprendizaje constante es la clave para construir grandes cosas."*  
+##  Frase motivacional
+*"Trabaja en silencio, para que el exito haga el ruido."*  
 
